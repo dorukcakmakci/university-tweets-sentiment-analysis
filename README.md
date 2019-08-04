@@ -1,4 +1,4 @@
-# university-sentiment-analysis
+# university-tweets-sentiment-analysis
 Multi-Lingual Sentiment Analysis of tweets about universities.
 
 Dependencies
